@@ -3,7 +3,7 @@ title: Murat Yessenov
 search:
   - M. Yessenov
   - M Yessenov
-role: postdoctoral researcher
+role: phd
 group: current
 image: 
 email:
