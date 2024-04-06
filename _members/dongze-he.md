@@ -1,15 +1,13 @@
 ---
-title: Dongze He
+title: Adiya Rakymzhan
 search:
-  - D. He
-  - D He
+  - A. Rakymzhan
+  - A Rakymzhan
 role: phd
 group: current
-image: https://avatars2.githubusercontent.com/u/32473855?s=460&u=3e2770f872817bc790c2c03acd41bfec7dfc72cb&v=4
-email: dhe17@umd.edu
-github: DongzeHE
+image: 
+email: adr88@pitt.edu
+linkedIn: https://www.linkedin.com/in/adiya-rakymzhan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8bhFyvc8RSyWKMYtGheNzw%3D%3D
 ---
  
-I am a PhD student concentrated in Computational Biology in [BISI](https://www.bisi.umd.edu/) at UMD. I received my B.S. degree in Biotechnology from Huaqiao University, and completed my M.S. in Systems Biology and Bioinformatics at Case Western Reserve University.  
-
-I joined in COMBINE lab in May 2020. Under the direction of professor Rob Patro, I am currently working on methods for analyzing single-cell RNA-seq data. My research interests include but are not limit to applying deep learning architectures in scRNA-seq data analysis, and utilizing graph-based algorithms in gene expression analysis. As a student with biology background, I aim to develop biologist-friendly tools that can help biologists to solve tough and complex research questions.
+I am a Ph.D. candidate in Neural Engineering at the [University of Pittsburgh](https://www.pitt.edu), working at [Neuroimaging Lab](https://www.neuroimaginglabpitt.org). After receiving my B.S. degree in Physics from [Nazarbayev University](https://www.google.com/search?client=safari&rls=en&q=nazarbayev+university&ie=UTF-8&oe=UTF-8) in Kazakhstan, I obtained my M.S. degree in Bioengineering from the [University of Washington](https://www.washington.edu) where I joined [Biophotonics and Imaging Laboratory](https://depts.washington.edu/wangast/index.html). Our projects focused on developing novel and clinically useful biomedical imaging techniques for early diagnosis, treatment and management of human diseases. The goal of my current Ph.D. work is to understand the interplay between neural network, inhibitory neurons in particular, and cerebrovascular system in health and disease, and whether this understanding could be utilized in developing new therapies for treating brain disorders such as vascular dementia and Alzheimer’s disease.
