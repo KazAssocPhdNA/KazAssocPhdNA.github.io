@@ -1,15 +1,14 @@
 ---
-title: Jason Fan
+title: Zhenisbek Tagay
 search:
-  - J. Fan
-  - Jason Fan
+  - Z. Tagay
+  - Z Tagay
 role: phd
 group: current
-image: images/jasonfan.jpg
-email: jasonfan@umd.edu
-website: fanjason.xyz
-twitter: jasonnfan
-github: thejasonfan
+image: 
+email: 
+website: 
+
 ---
 
-Jason likes to factorize matrices!
+
