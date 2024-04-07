@@ -1,10 +1,14 @@
 ---
-title: Research
+title: About Us
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <i></i>What is KAPNA?
 
-Even with this excellent website template, this is the most difficult section of the website to create initially.  It requires 
-extracting our publications into **yet another format**.  While we work on creating this part of the website so that we have 
-a unified list of publications on the web that is (hopefully) easy to maintain --- you might find an unofficial list on 
-[Rob's Google Scholar page](https://scholar.google.com/citations?user=H36hOqEAAAAJ&hl=en).
+The Kazakhstani Association of PhDs in North America brings together doctorate-level students and graduates who are currently studying or pursuing careers in the United States or Canada 
+
+# <i>KAPNA's Mission</i>
+To unite and empower doctorate-level students and graduates from Kazakhstan in North America, addressing their unique challenges, fostering academic excellence, and promoting professional growth. 
+Our mission is to provide a supportive community that champions education, research, and collaboration while celebrating the shared experiences and backgrounds of our members.
+
+# <i>KAPNA's Vision</i>
+To be the premier networking platform for doctorate-level students and graduates from Kazakhstan in North America, recognized for our commitment to scholarly achievement and career development. We aspire to cultivate a thriving network that shapes the future of academia, industry, and our global society. 
