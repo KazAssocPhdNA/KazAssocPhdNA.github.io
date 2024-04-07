@@ -8,7 +8,6 @@ title: Contact
 kapna.phd@gmail.com
 
 ## Join Us on Social Media 
-<h2>Join Us on Social Media </h2>
         <p><!-- Add LinkedIn and Instagram links -->
     <ul>
         <li><a href="https://www.linkedin.com/groups/12782214/" target="_blank">LinkedIn</a></li>
