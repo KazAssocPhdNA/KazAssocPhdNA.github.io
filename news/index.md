@@ -1,10 +1,10 @@
 ---
-title: News 
+title: Newsletters 
 ---
 
 # <i class="fas fa-feather-alt"></i>News
 
-## News
+## Newsletters
 
 {% include news-list.html %}
 
